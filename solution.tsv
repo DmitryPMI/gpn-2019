@@ -1,0 +1,262 @@
+year	month	location	sku_id	volume
+2019	7	Alpha City	sku #79	9567.0
+2019	7	Alpha City	sku #15	10622.0
+2019	7	Alpha City	sku #16	7416.0
+2019	7	Alpha City	sku #22	15143.0
+2019	7	Alpha City	sku #28	4067.0
+2019	7	Alpha City	sku #30	13509.0
+2019	7	Alpha City	sku #31	3497.0
+2019	7	Alpha City	sku #33	608.0
+2019	7	Alpha City	sku #38	2340.0
+2019	7	Alpha City	sku #41	3509.0
+2019	7	Alpha City	sku #46	3921.0
+2019	7	Alpha City	sku #48	7413.0
+2019	7	Alpha City	sku #49	5499.0
+2019	7	Alpha City	sku #42	612.0
+2019	7	Alpha City	sku #67	702.0
+2019	7	Alpha City	sku #25	8696.0
+2019	7	Alpha City	sku #73	5625.0
+2019	7	Alpha City	sku #78	5541.0
+2019	7	Alpha City	sku #106	3315.0
+2019	7	Alpha City	sku #76	2662.0
+2019	7	Alpha City	sku #77	3718.0
+2019	7	Alpha City	sku #97	4383.0
+2019	7	Alpha City	sku #94	1546.0
+2019	7	Alpha City	sku #100	2296.0
+2019	7	Pirate Bay	sku #79	983.0
+2019	7	Pirate Bay	sku #15	3597.0
+2019	7	Pirate Bay	sku #16	7524.0
+2019	7	Pirate Bay	sku #22	11330.0
+2019	7	Pirate Bay	sku #28	5735.0
+2019	7	Pirate Bay	sku #30	7568.0
+2019	7	Pirate Bay	sku #31	1417.0
+2019	7	Pirate Bay	sku #33	522.0
+2019	7	Pirate Bay	sku #38	1621.0
+2019	7	Pirate Bay	sku #41	1676.0
+2019	7	Pirate Bay	sku #46	4276.0
+2019	7	Pirate Bay	sku #48	6341.0
+2019	7	Pirate Bay	sku #49	1382.0
+2019	7	Pirate Bay	sku #42	90.0
+2019	7	Pirate Bay	sku #67	211.0
+2019	7	Pirate Bay	sku #25	3897.0
+2019	7	Pirate Bay	sku #73	2713.0
+2019	7	Pirate Bay	sku #78	490.0
+2019	7	Pirate Bay	sku #94	566.0
+2019	7	Pirate Bay	sku #106	1688.0
+2019	7	Pirate Bay	sku #100	1904.0
+2019	7	Pirate Bay	sku #76	3200.0
+2019	7	Pirate Bay	sku #77	3531.0
+2019	7	Pirate Bay	sku #97	4811.0
+2019	7	Pirate Bay	sku #105	782.0
+2019	7	Pirate Bay	sku #60	30.0
+2019	7	Moon	sku #34	1047.0
+2019	7	Moon	sku #37	1026.0
+2019	7	Moon	sku #27	3173.0
+2019	7	Moon	sku #43	1646.0
+2019	7	Moon	sku #44	582.0
+2019	7	Moon	sku #72	7736.0
+2019	7	Moon	sku #81	8178.0
+2019	7	Moon	sku #82	5010.0
+2019	7	Moon	sku #83	5507.0
+2019	7	Moon	sku #84	5639.0
+2019	7	Moon	sku #7	967.0
+2019	7	Moon	sku #11	1994.0
+2019	7	Moon	sku #17	651.0
+2019	7	Moon	sku #3	743.0
+2019	7	Moon	sku #5	924.0
+2019	7	Moon	sku #30	6252.0
+2019	7	Moon	sku #55	2341.0
+2019	7	Moon	sku #98	862.0
+2019	7	Moon	sku #100	296.0
+2019	7	Moon	sku #76	202.0
+2019	7	Moon	sku #77	367.0
+2019	7	Moon	sku #97	643.0
+2019	7	Moon	sku #46	3666.0
+2019	7	Moon	sku #48	4653.0
+2019	7	Moon	sku #16	3308.0
+2019	7	Moon	sku #22	5834.0
+2019	7	Moon	sku #28	4470.0
+2019	7	Moon	sku #31	713.0
+2019	7	Moon	sku #41	1198.0
+2019	7	Moon	sku #60	3129.0
+2019	7	Moon	sku #79	1693.0
+2019	7	Moon	sku #25	1211.0
+2019	7	Moon	sku #73	798.0
+2019	7	Village	sku #30	404.2093023255814
+2019	7	Village	sku #46	200.8571428571429
+2019	7	Village	sku #25	50.06976744186046
+2019	7	Village	sku #73	50.06976744186046
+2019	8	Alpha City	sku #79	8348.0
+2019	8	Alpha City	sku #15	10213.0
+2019	8	Alpha City	sku #16	6562.0
+2019	8	Alpha City	sku #22	13904.0
+2019	8	Alpha City	sku #28	3366.0
+2019	8	Alpha City	sku #30	12001.0
+2019	8	Alpha City	sku #31	2612.0
+2019	8	Alpha City	sku #33	499.0
+2019	8	Alpha City	sku #38	1707.0
+2019	8	Alpha City	sku #41	2633.0
+2019	8	Alpha City	sku #46	3277.0
+2019	8	Alpha City	sku #48	6451.0
+2019	8	Alpha City	sku #49	4623.0
+2019	8	Alpha City	sku #42	448.0
+2019	8	Alpha City	sku #67	650.0
+2019	8	Alpha City	sku #25	7249.0
+2019	8	Alpha City	sku #73	4309.0
+2019	8	Alpha City	sku #78	4183.0
+2019	8	Alpha City	sku #106	2714.0
+2019	8	Alpha City	sku #76	2514.0
+2019	8	Alpha City	sku #77	3242.0
+2019	8	Alpha City	sku #97	4318.0
+2019	8	Alpha City	sku #94	1164.0
+2019	8	Alpha City	sku #100	1925.0
+2019	8	Pirate Bay	sku #79	735.0
+2019	8	Pirate Bay	sku #15	3646.0
+2019	8	Pirate Bay	sku #16	7492.0
+2019	8	Pirate Bay	sku #22	11192.0
+2019	8	Pirate Bay	sku #28	5512.0
+2019	8	Pirate Bay	sku #30	7159.0
+2019	8	Pirate Bay	sku #31	1229.0
+2019	8	Pirate Bay	sku #33	483.0
+2019	8	Pirate Bay	sku #38	1559.0
+2019	8	Pirate Bay	sku #41	1695.0
+2019	8	Pirate Bay	sku #46	3977.0
+2019	8	Pirate Bay	sku #48	5999.0
+2019	8	Pirate Bay	sku #49	1464.0
+2019	8	Pirate Bay	sku #42	153.0
+2019	8	Pirate Bay	sku #67	329.0
+2019	8	Pirate Bay	sku #25	3413.0
+2019	8	Pirate Bay	sku #73	2207.0
+2019	8	Pirate Bay	sku #78	414.0
+2019	8	Pirate Bay	sku #94	448.0
+2019	8	Pirate Bay	sku #106	1507.0
+2019	8	Pirate Bay	sku #100	1856.0
+2019	8	Pirate Bay	sku #76	3119.0
+2019	8	Pirate Bay	sku #77	3441.0
+2019	8	Pirate Bay	sku #97	4661.0
+2019	8	Pirate Bay	sku #105	720.0
+2019	8	Pirate Bay	sku #60	30.0
+2019	8	Moon	sku #34	909.0
+2019	8	Moon	sku #37	891.0
+2019	8	Moon	sku #27	3116.0
+2019	8	Moon	sku #43	1448.0
+2019	8	Moon	sku #44	508.0
+2019	8	Moon	sku #72	7474.0
+2019	8	Moon	sku #81	7743.0
+2019	8	Moon	sku #82	4624.0
+2019	8	Moon	sku #83	5213.0
+2019	8	Moon	sku #84	5563.0
+2019	8	Moon	sku #7	827.0
+2019	8	Moon	sku #11	1700.0
+2019	8	Moon	sku #17	590.0
+2019	8	Moon	sku #3	610.0
+2019	8	Moon	sku #5	914.0
+2019	8	Moon	sku #30	6025.0
+2019	8	Moon	sku #55	2307.0
+2019	8	Moon	sku #98	891.0
+2019	8	Moon	sku #100	273.0
+2019	8	Moon	sku #76	215.0
+2019	8	Moon	sku #77	363.0
+2019	8	Moon	sku #97	579.0
+2019	8	Moon	sku #46	3503.0
+2019	8	Moon	sku #48	4463.0
+2019	8	Moon	sku #16	3168.0
+2019	8	Moon	sku #22	5694.0
+2019	8	Moon	sku #28	4358.0
+2019	8	Moon	sku #31	658.0
+2019	8	Moon	sku #41	1129.0
+2019	8	Moon	sku #60	3130.0
+2019	8	Moon	sku #79	1588.0
+2019	8	Moon	sku #25	1061.0
+2019	8	Moon	sku #73	703.0
+2019	8	Village	sku #30	406.76744186046517
+2019	8	Village	sku #46	185.59523809523807
+2019	8	Village	sku #25	50.255813953488364
+2019	8	Village	sku #73	50.255813953488364
+2019	9	Alpha City	sku #79	8500.0
+2019	9	Alpha City	sku #15	10258.0
+2019	9	Alpha City	sku #16	6668.0
+2019	9	Alpha City	sku #22	14061.0
+2019	9	Alpha City	sku #28	3445.0
+2019	9	Alpha City	sku #30	12198.0
+2019	9	Alpha City	sku #31	2723.0
+2019	9	Alpha City	sku #33	507.0
+2019	9	Alpha City	sku #38	1784.0
+2019	9	Alpha City	sku #41	2755.0
+2019	9	Alpha City	sku #46	3364.0
+2019	9	Alpha City	sku #48	6570.0
+2019	9	Alpha City	sku #49	4730.0
+2019	9	Alpha City	sku #42	462.0
+2019	9	Alpha City	sku #67	639.0
+2019	9	Alpha City	sku #25	7429.0
+2019	9	Alpha City	sku #73	4485.0
+2019	9	Alpha City	sku #78	4355.0
+2019	9	Alpha City	sku #106	2792.0
+2019	9	Alpha City	sku #76	2531.0
+2019	9	Alpha City	sku #77	3300.0
+2019	9	Alpha City	sku #97	4326.0
+2019	9	Alpha City	sku #94	1214.0
+2019	9	Alpha City	sku #100	1977.0
+2019	9	Pirate Bay	sku #79	661.0
+2019	9	Pirate Bay	sku #15	3638.0
+2019	9	Pirate Bay	sku #16	7434.0
+2019	9	Pirate Bay	sku #22	11076.0
+2019	9	Pirate Bay	sku #28	5378.0
+2019	9	Pirate Bay	sku #30	6981.0
+2019	9	Pirate Bay	sku #31	1151.0
+2019	9	Pirate Bay	sku #33	445.0
+2019	9	Pirate Bay	sku #38	1512.0
+2019	9	Pirate Bay	sku #41	1680.0
+2019	9	Pirate Bay	sku #46	3810.0
+2019	9	Pirate Bay	sku #48	5813.0
+2019	9	Pirate Bay	sku #49	1516.0
+2019	9	Pirate Bay	sku #42	167.0
+2019	9	Pirate Bay	sku #67	348.0
+2019	9	Pirate Bay	sku #25	3158.0
+2019	9	Pirate Bay	sku #73	1991.0
+2019	9	Pirate Bay	sku #78	376.0
+2019	9	Pirate Bay	sku #94	411.0
+2019	9	Pirate Bay	sku #106	1424.0
+2019	9	Pirate Bay	sku #100	1850.0
+2019	9	Pirate Bay	sku #76	3096.0
+2019	9	Pirate Bay	sku #77	3396.0
+2019	9	Pirate Bay	sku #97	4593.0
+2019	9	Pirate Bay	sku #105	688.0
+2019	9	Pirate Bay	sku #60	30.0
+2019	9	Moon	sku #34	824.0
+2019	9	Moon	sku #37	807.0
+2019	9	Moon	sku #27	3081.0
+2019	9	Moon	sku #43	1326.0
+2019	9	Moon	sku #44	463.0
+2019	9	Moon	sku #72	7313.0
+2019	9	Moon	sku #81	7477.0
+2019	9	Moon	sku #82	4388.0
+2019	9	Moon	sku #83	5033.0
+2019	9	Moon	sku #84	5513.0
+2019	9	Moon	sku #7	735.0
+2019	9	Moon	sku #11	1523.0
+2019	9	Moon	sku #17	551.0
+2019	9	Moon	sku #3	527.0
+2019	9	Moon	sku #5	904.0
+2019	9	Moon	sku #30	5886.0
+2019	9	Moon	sku #55	2289.0
+2019	9	Moon	sku #98	908.0
+2019	9	Moon	sku #100	260.0
+2019	9	Moon	sku #76	223.0
+2019	9	Moon	sku #77	359.0
+2019	9	Moon	sku #97	540.0
+2019	9	Moon	sku #46	3404.0
+2019	9	Moon	sku #48	4347.0
+2019	9	Moon	sku #16	3083.0
+2019	9	Moon	sku #22	5609.0
+2019	9	Moon	sku #28	4291.0
+2019	9	Moon	sku #31	626.0
+2019	9	Moon	sku #41	1086.0
+2019	9	Moon	sku #60	3130.0
+2019	9	Moon	sku #79	1523.0
+2019	9	Moon	sku #25	969.0
+2019	9	Moon	sku #73	646.0
+2019	9	Village	sku #30	409.32558139534893
+2019	9	Village	sku #46	170.33333333333331
+2019	9	Village	sku #25	50.44186046511627
+2019	9	Village	sku #73	50.44186046511627
